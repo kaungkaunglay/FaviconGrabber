@@ -1,0 +1,2 @@
+# FaviconGrabber
+Javscript Favicon Grabber
